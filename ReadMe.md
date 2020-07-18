@@ -1,0 +1,1 @@
+# Vanilla JS app to search and favorite your favorite comic superheroes.
